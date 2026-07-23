@@ -3,9 +3,7 @@
 ## About
 Hi, I'm Ahmed! I have an analytical background in Accounting (Faculty of 
 Business, Alexandria University) and I am currently completing the DEPI 
-Professional Data Analyst Track. To me, working with data is like painting — 
-you step into it not knowing exactly what the final picture will look like, 
-and you explore until the insights reveal themselves. I am a lifelong learner, 
+Professional Data Analyst Track. I am a lifelong learner, 
 a natural problem-solver, and excited to bring my technical and analytical 
 skills to the field.
 

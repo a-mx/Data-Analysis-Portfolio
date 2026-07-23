@@ -4,35 +4,254 @@
 
 Hi, I'm Ahmed!
 
-I am currently pursuing a Bachelor's degree in Accounting at the Faculty of Business, Alexandria University. Alongside my university studies, I am specializing in Data Analytics through the DEPI Professional Data Analyst Track while also completing the IBM Data Analyst and Google Data Analytics Professional Certificates.
+I am currently pursuing a Bachelor's degree in Accounting at the Faculty of Business, Alexandria University. Alongside my university studies, I am currently completing the DEPI Professional Data Analyst Track as well as the IBM Data Analyst Professional Certificate and the Google Data Analytics Professional Certificate.
 
-My interest in data comes from my passion for solving problems and discovering meaningful insights. I enjoy taking raw, unorganized information and transforming it into clear, useful, and actionable results. Whether the task involves cleaning data, building dashboards, automating repetitive work with Python, or developing web applications, I enjoy creating practical solutions that make work easier and more efficient.
+I have a strong interest in data analytics, programming, business systems, and automation. I enjoy solving problems, discovering insights from data, and building practical solutions using technology. My experience includes working on business data preparation, ERP implementation projects, web development, and Python automation.
 
-Beyond data analytics, I have experience working on real business projects, including ERP data preparation and migration, web application development, and Python automation. These experiences have strengthened both my technical and business understanding and continue to shape the way I approach problem-solving.
+In my free time, I enjoy exploring new technologies, learning new tools, and working on personal projects that challenge me to improve my skills. Whether working independently or as part of a team, I enjoy learning continuously and turning ideas into real projects.
 
-In my free time, I enjoy learning new technologies, exploring different programming tools, and building personal projects that challenge me to improve my skills. I believe continuous learning is one of the most valuable qualities in technology, and I am always looking for new opportunities to grow.
+My CV in PDF. *(Coming Soon)*
 
-My CV (PDF).
-
-This repository showcases my skills, projects, certifications, and progress throughout my journey in Data Analytics, Business Systems, and Software Development.
+This is a repository to showcase my skills, share projects, and track my progress in Data Analytics, Business Systems, Python, and Software Development.
 
 ---
 
 # Table of Contents
 
 - About
+
 - Portfolio Projects
+
+  - Python
+  - SQL
+  - Excel
+  - Power BI
+  - Tableau
+  - Web Development
+  - Odoo / ERP
+  - Automation
+
 - Education
+
 - Certificates
+
 - Contact
 
 ---
 
 # Portfolio Projects
 
-In this section, I list projects that demonstrate my technical skills and problem-solving approach. Each project includes its objective, description, technologies used, and key outcomes.
+In this section I will list my projects, briefly describing the technology stack used to solve each case.
 
-*(Projects will be added as they are completed.)*
+---
+
+## Python
+
+### Project Name *(Coming Soon)*
+
+**Code:** *(Link)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Python, Pandas, ...
+
+**Results:**
+
+*(To be added)*
+
+---
+
+### Project Name *(Coming Soon)*
+
+**Code:** *(Link)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+*(To be added)*
+
+**Results:**
+
+*(To be added)*
+
+---
+
+## SQL
+
+### Project Name *(Coming Soon)*
+
+**Code:** *(Link)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+PostgreSQL
+
+---
+
+## Excel
+
+### Project Name *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Microsoft Excel
+
+**Results:**
+
+*(To be added)*
+
+---
+
+## Power BI
+
+### Dashboard *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Power BI
+
+---
+
+## Tableau
+
+### Dashboard *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Tableau
+
+---
+
+## Web Development
+
+### Project *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+HTML, CSS, JavaScript
+
+---
+
+## Odoo / ERP
+
+### Project *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Odoo, Excel, Accounting
+
+---
+
+## Automation
+
+### Project *(Coming Soon)*
+
+**Goal:**
+
+*(To be added)*
+
+**Description:**
+
+*(To be added)*
+
+**Skills:**
+
+*(To be added)*
+
+**Technology:**
+
+Python
 
 ---
 
@@ -50,7 +269,7 @@ Bachelor's Degree in Accounting
 
 # Certificates
 
-The best way to demonstrate skills is by building real projects. However, certifications also reflect my commitment to continuous learning. Below is a list of my completed and ongoing certifications (reverse chronological order).
+The best way to showcase skills is by doing and sharing your work, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
 
 ### In Progress
 
@@ -62,14 +281,15 @@ The best way to demonstrate skills is by building real projects. However, certif
 
 - Python Programming Certificate
 - Python Programming Level 2
-- ICDL Certificate
-- Freelancing Certificate (Alexandria University)
+- ICDL
+- Freelancing Certificate
 
 ---
 
 # Contact
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub profile)*
-- Kaggle: *(Add your Kaggle profile)*
+- LinkedIn:
+- GitHub:
+- Kaggle:
+- Portfolio Website:
 - Email: 2001ahmedmahmoud@gmail.com

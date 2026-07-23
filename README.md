@@ -58,7 +58,7 @@ I have (in reverse-chronological order, with the date of completion in
 brackets):
 - [IBM Data Fundamentals](https://www.credly.com/badges/1077ca54-c7d1-489a-8463-5e09e316342b/public_url) (Jul 2026) — IBM SkillsBuild
 - [Business Intelligence Fundamentals](https://www.simplilearn.com/skillup-certificate-landing) (Jul 2025) — Simplilearn SkillUp
-- *(Additional credentials: Python Levels 1 & 2, Freelancing Certificate — Alexandria University, ICDL)*
+- *(Additional credentials: Python Advanced — Alexandria University, Freelancing Certificate — Alexandria University)*
 
 ## Contacts
 - **Email:** 2001ahmedmahmoud@gmail.com

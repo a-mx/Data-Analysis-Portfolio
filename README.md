@@ -43,6 +43,6 @@ The best way to showcase skills is by doing and sharing your job done, but somet
 - *(Additional credentials include: Python Levels 1 & 2, Freelancing Certificate from Alexandria University, and ICDL).*
 
 ## Contacts
-- **LinkedIn:** [@amx20](https://www.linkedin.com/in/amx20/)
+- **LinkedIn:** [[@amx20](https://www.linkedin.com/in/amx20/)]
 - **Email:** ahmedmahmoud@gmail.com
 - **Kaggle:** [[amx2001](https://www.kaggle.com/amx2001)]

@@ -62,5 +62,5 @@ brackets):
 
 ## Contacts
 - **Email:** 2001ahmedmahmoud@gmail.com
-- **LinkedIn:** [@amx20](https://www.linkedin.com/in/amx20/)
+- **LinkedIn:** [amx20](https://www.linkedin.com/in/amx20/)
 - **Kaggle:** [amx2001](https://www.kaggle.com/amx2001)

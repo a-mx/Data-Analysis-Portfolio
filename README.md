@@ -40,12 +40,18 @@ describing the technology stack used to solve each case.
 **Code:** [Call-Center-Reviews](https://github.com/amx-20/Call-Center-Reviews)  
 **Goal:** A platform for Egyptian call center employees to anonymously share 
 workplace reviews and help job seekers make informed decisions.  
-**Tech Stack:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets, 
-GitHub Pages.  
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
+
 **Highlights:** Responsive front-end with a lightweight backend — Google Apps 
 Script as the API, Google Sheets as the database. Users browse companies by 
 rating, job title, and employment period.
-
 ## Education
 **Alexandria University**  
 Faculty of Business  

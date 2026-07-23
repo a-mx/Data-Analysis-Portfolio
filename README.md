@@ -1,274 +1,48 @@
-# Ahmed Mahmoud - Portfolio
+# AMX Portfolio
 
 ## About
+Hi, I'm Ahmad! I have an analytical background in Accounting (Faculty of Business, Alexandria University) and currently, I am on track to completing my DEPI Professional Data Analyst Track. To me, working with data is like painting—you step into it not knowing exactly what the final picture will look like, and you explore until the insights reveal themselves. I am a lifelong learner, a natural problem-solver, and excited to bring my technical and analytical skills to the field.
 
-Hi, I'm Ahmed!
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in business techniques, data management, and statistical analysis, which I believe will be valuable assets in my career. Programming gives me the freedom to simply write code and bring my ideas to life.
 
-I am currently pursuing a Bachelor's degree in Accounting at the Faculty of Business, Alexandria University. Alongside my university studies, I am currently completing the DEPI Professional Data Analyst Track as well as the IBM Data Analyst Professional Certificate and the Google Data Analytics Professional Certificate.
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to take on new challenges. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-I have a strong interest in data analytics, programming, business systems, and automation. I enjoy solving problems, discovering insights from data, and building practical solutions using technology. My experience includes working on business data preparation, ERP implementation projects, web development, and Python automation.
+My CV in [pdf]([Insert Link to your CV PDF here]).
 
-In my free time, I enjoy exploring new technologies, learning new tools, and working on personal projects that challenge me to improve my skills. Whether working independently or as part of a team, I enjoy learning continuously and turning ideas into real projects.
+This is a repository to showcase my skills, share projects, and track my progress in Data Analytics, Data Science, and web development related topics.
 
-**My CV (PDF)** *(Coming Soon)*
-
-This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics, Business Systems, Python, and Software Development.
-
----
-
-# Table of Contents
-
+## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
-  - [SQL](#sql)
-  - [Excel](#excel)
-  - [Power BI](#power-bi)
-  - [Tableau](#tableau)
-  - [Web Development](#web-development)
-  - [Odoo / ERP](#odoo--erp)
-  - [Automation](#automation)
-- [Education](#education)
+  - [Call Center Reviews Egypt](#call-center-reviews-egypt)
+- [Education](#education)  
 - [Certificates](#certificates)
-- [Contact](#contact)
+- [Contact](#contacts)
 
----
-
-# Portfolio Projects
-
-In this section I will list my projects, briefly describing the technology stack used to solve each case.
-
----
-
-## Python
-
-### Project *(Coming Soon)*
-
-**Code:** *(Coming Soon)*
-
-**Goal:**
-
-*(Coming Soon)*
-
-**Description:**
-
-*(Coming Soon)*
-
-**Skills:**
-
-*(Coming Soon)*
-
-**Technology:**
-
-Python, Pandas
-
-**Results:**
-
-*(Coming Soon)*
-
----
-
-## SQL
-
-### Project *(Coming Soon)*
-
-**Code:** *(Coming Soon)*
-
-**Description:**
-
-*(Coming Soon)*
-
-**Skills:**
-
-*(Coming Soon)*
-
-**Technology:**
-
-PostgreSQL / SQL
-
----
-
-## Excel
-
-### Project *(Coming Soon)*
-
-**Goal:**
-
-*(Coming Soon)*
-
-**Description:**
-
-*(Coming Soon)*
-
-**Skills:**
-
-*(Coming Soon)*
-
-**Technology:**
-
-Microsoft Excel
-
-**Results:**
-
-*(Coming Soon)*
-
----
-
-## Power BI
-
-### Dashboard *(Coming Soon)*
-
-**Goal:**
-
-*(Coming Soon)*
-
-**Description:**
-
-*(Coming Soon)*
-
-**Skills:**
-
-*(Coming Soon)*
-
-**Technology:**
-
-Power BI
-
----
-
-## Tableau
-
-### Dashboard *(Coming Soon)*
-
-**Goal:**
-
-*(Coming Soon)*
-
-**Description:**
-
-*(Coming Soon)*
-
-**Skills:**
-
-*(Coming Soon)*
-
-**Technology:**
-
-Tableau
-
----
-
-## Web Development
+## Portfolio Projects
+In this section, I will list data analytics and web development projects, briefly describing the technology stack used to solve cases.
 
 ### Call Center Reviews Egypt
+**Live Demo:** [https://amx-20.github.io/Call-Center-Reviews/](https://amx-20.github.io/Call-Center-Reviews/)  
+**Code:** [`Call Center Reviews Egypt`](https://github.com/amx-20/Call-Center-Reviews)  
+**Goal:** To build a platform where current and former call center employees in Egypt can anonymously share their workplace experiences and help job seekers make informed career decisions.  
+**Description:** The project focused on developing a web application for collecting and displaying employee reviews of call center companies in Egypt. The application features a responsive user interface and integrates Google Apps Script as a backend API with Google Sheets serving as the database. Users can browse company reviews, ratings, job titles, employment periods, and recommendations through a dynamic and user-friendly interface.  
+**Skills:** Front-End Development, Responsive Web Design, JavaScript, API Integration, Google Apps Script, Google Sheets, Data Management, Git, GitHub.  
+**Technology:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets, GitHub Pages.  
+**Results:** Successfully designed, developed, and deployed a fully functional employee review platform that allows users to submit and browse company reviews through a dynamic web interface. The project demonstrates the integration of front-end development with a lightweight backend and cloud-based data storage.
 
-**Code:** *(Add Repository Link)*
-
-**Goal:**
-
-To build a platform where current and former call center employees in Egypt can anonymously share workplace experiences and help job seekers make informed career decisions.
-
-**Description:**
-
-Developed a responsive web application that allows users to browse and submit company reviews. The project uses Google Apps Script and Google Sheets as the backend while HTML, CSS, and JavaScript power the frontend interface.
-
-**Skills:**
-
-- Front-End Development
-- API Integration
-- Responsive Web Design
-- DOM Manipulation
-- Google Apps Script
-
-**Technology:**
-
-HTML, CSS, JavaScript, Google Apps Script, Google Sheets
-
-**Results:**
-
-Successfully built and deployed a functional review platform capable of collecting and displaying dynamic user reviews.
-
----
-
-### Future Web Project *(Coming Soon)*
-
----
-
-## Odoo / ERP
-
-### Fonoun Odoo Migration
-
-**Goal:**
-
-Prepare and organize company data for migration from Excel into the Odoo ERP system.
-
-**Description:**
-
-Worked on cleaning and organizing business data before implementation. Prepared master data including products, categories, warehouses, chart of accounts, opening balances, and accounting data required for ERP migration.
-
-**Skills:**
-
-- Data Cleaning
-- Master Data Preparation
-- Accounting
-- ERP Implementation
-- Business Process Analysis
-
-**Technology:**
-
-Microsoft Excel, Odoo ERP
-
-**Results:**
-
-Prepared accurate and structured business data ready for import into Odoo, helping ensure a smooth ERP implementation.
-
----
-
-### Future Odoo Project *(Coming Soon)*
-
----
-
-## Automation
-
-### Python Automation Project *(Coming Soon)*
-
----
-
-# Education
-
-**Alexandria University**
-
-Faculty of Business
-
+## Education
+**Alexandria University**  
+Faculty of Business  
 Bachelor's Degree in Accounting
 
-(Expected Graduation: XXXX)
+## Certificates
+The best way to showcase skills is by doing and sharing your job done, but sometimes certificates appear as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [IBM Data Fundamentals](https://www.credly.com/badges/1077ca54-c7d1-489a-8463-5e09e316342b/public_url) (Jul 2026) (IBM-SkillsBuild - IBM)
+- [Business Intelligence Fundamentals](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA2IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvMTA0MjAyNjVfMTA3MzYyOTlfMTc4Mjk5MjkxMzA4OS5wbmciLCJ1c2VybmFtZSI6IkFobWVkIE1haG1vdWQgTW9oYW1lZCJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4304%2FBusiness-Intelligence-Fundamentals%2Fcertificate%2Fdownload-skillup&%24web_only=true) (Jul 2025) (Simplilearn SkillUp)
+- *(Additional credentials include: Python Levels 1 & 2, Freelancing Certificate from Alexandria University, and ICDL).*
 
----
-
-# Certificates
-
-The best way to showcase skills is by doing and sharing your work, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-
-## In Progress
-
-- DEPI Professional Data Analyst Track
-- IBM Data Analyst Professional Certificate
-- Google Data Analytics Professional Certificate
-
-## Completed
-
-- Python Programming Certificate
-- Python Programming Level 2
-- ICDL
-- Freelancing Certificate (Alexandria University)
-
----
-
-# Contact
-
-- LinkedIn: *(Coming Soon)*
-- GitHub: *(Coming Soon)*
-- Kaggle: *(Coming Soon)*
-- Portfolio Website: *(Coming Soon)*
-- Email: 2001ahmedmahmoud@gmail.com
+## Contacts
+- **LinkedIn:** [@amx20](https://www.linkedin.com/in/amx20/)
+- **Email:** ahmedmahmoud@gmail.com
+- **Kaggle:** [Insert Kaggle Profile Link]

@@ -1,124 +1,38 @@
-# MY Portfolio
+# Ahmed Mahmoud - Portfolio
 
-> Building practical solutions through Data Analytics, Python, Business Systems, and Automation.
+## About
 
----
+Hi, I'm Ahmed!
 
-# About Me
+I am currently pursuing a Bachelor's degree in Accounting at the Faculty of Business, Alexandria University. Alongside my university studies, I am specializing in Data Analytics through the DEPI Professional Data Analyst Track while also completing the IBM Data Analyst and Google Data Analytics Professional Certificates.
 
-Hi, I'm **Ahmed Mahmoud**, a graduate in Business (Accounting) with a passion for solving real-world problems through technology.
+My interest in data comes from my passion for solving problems and discovering meaningful insights. I enjoy taking raw, unorganized information and transforming it into clear, useful, and actionable results. Whether the task involves cleaning data, building dashboards, automating repetitive work with Python, or developing web applications, I enjoy creating practical solutions that make work easier and more efficient.
 
-My interests combine **data analytics, business systems, Python automation, and software development**. I enjoy understanding how businesses operate, discovering opportunities for improvement, and building practical tools that make work easier and more efficient.
+Beyond data analytics, I have experience working on real business projects, including ERP data preparation and migration, web application development, and Python automation. These experiences have strengthened both my technical and business understanding and continue to shape the way I approach problem-solving.
 
-Rather than focusing on a single technology, I enjoy learning across multiple disciplines and connecting them to create complete solutions.
+In my free time, I enjoy learning new technologies, exploring different programming tools, and building personal projects that challenge me to improve my skills. I believe continuous learning is one of the most valuable qualities in technology, and I am always looking for new opportunities to grow.
 
-This repository serves as the central hub of my professional portfolio. It contains my background, technical skills, certifications, education, and links to all of my projects.
+My CV (PDF).
+
+This repository showcases my skills, projects, certifications, and progress throughout my journey in Data Analytics, Business Systems, and Software Development.
 
 ---
 
 # Table of Contents
 
-- [About Me](#about-me)
-- [Current Focus](#current-focus)
-- [Technical Skills](#technical-skills)
-- [Featured Projects](#featured-projects)
-- [Professional Experience](#professional-experience)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Current Learning](#current-learning)
-- [Future Roadmap](#future-roadmap)
-- [Connect With Me](#connect-with-me)
+- About
+- Portfolio Projects
+- Education
+- Certificates
+- Contact
 
 ---
 
-# Current Focus
+# Portfolio Projects
 
-I'm currently:
+In this section, I list projects that demonstrate my technical skills and problem-solving approach. Each project includes its objective, description, technologies used, and key outcomes.
 
-- Completing the **DEPI Professional Data Analyst Track**
-- Studying the **IBM Data Analyst Professional Certificate**
-- Studying the **Google Data Analytics Professional Certificate**
-- Building practical portfolio projects using real-world datasets and business scenarios
-- Expanding my knowledge in Python, SQL, Power BI, Tableau, and Data Engineering
-
----
-
-# Technical Skills
-
-## Data Analytics
-
-- Excel (Advanced)
-- SQL
-- Python (Pandas)
-- Statistics
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-
-## Data Visualization
-
-- Power BI
-- Tableau
-- Microsoft Excel Dashboards
-
-## Programming
-
-- Python
-- HTML
-- CSS
-- JavaScript
-
-## Business & ERP
-
-- Accounting
-- Odoo ERP
-- Business Process Analysis
-- Master Data Preparation
-
-## Development Tools
-
-- Git
-- GitHub
-- Linux
-- Docker (Learning)
-
-## Content Creation
-
-- CapCut
-- Adobe Podcast
-
----
-
-# Featured Projects
-
-All project source code is available inside the **AMX Projects** repository.
-
-| Project | Description | Technologies | Status |
-|----------|-------------|--------------|--------|
-| Cost of Living Egypt | Collecting and analyzing historical cost of living data across Egypt. | Python, Pandas, Excel | 🚧 |
-| Call Center Reviews Egypt | Employee review platform for Egypt's outsourcing industry. | HTML, CSS, JavaScript, Google Apps Script | 🚧 |
-| Fonoun Odoo Migration | Business data preparation and ERP migration from Excel to Odoo. | Excel, Odoo, Accounting | ✅ |
-| DEPI Projects | Portfolio projects developed during the DEPI Professional Data Analyst Track. | Python, SQL, Power BI | 🚧 |
-| IBM Certificate Projects | Projects completed throughout the IBM Data Analyst program. | Python, SQL | 🚧 |
-| Google Certificate Projects | Projects completed throughout the Google Data Analytics program. | SQL, R, Tableau | 🚧 |
-
-➡️ **View all projects:** *(link to AMX Projects repository)*
-
----
-
-# Professional Experience
-
-## Fonoun ERP Migration
-
-Worked on preparing a company's migration from Excel to Odoo ERP.
-
-Responsibilities included:
-
-- Cleaning business data
-- Preparing master data
-- Organizing chart of accounts
-- Preparing opening balances
-- Validating imported data
-- Supporting ERP implementation
+*(Projects will be added as they are completed.)*
 
 ---
 
@@ -128,72 +42,34 @@ Responsibilities included:
 
 Faculty of Business
 
-Accounting — Graduate
+Bachelor's Degree in Accounting
+
+(Expected Graduation: XXXX)
 
 ---
 
-# Certifications
+# Certificates
 
-## Completed
+The best way to demonstrate skills is by building real projects. However, certifications also reflect my commitment to continuous learning. Below is a list of my completed and ongoing certifications (reverse chronological order).
 
-- Python Programming (Alexandria University)
-- ICDL
-- Freelancing Certificate (Alexandria University)
-- IBM Data Fundamentals
-
-## In Progress
+### In Progress
 
 - DEPI Professional Data Analyst Track
 - IBM Data Analyst Professional Certificate
 - Google Data Analytics Professional Certificate
 
-## Planned
+### Completed
 
-- Microsoft Power BI
-- Tableau
-- AI / Machine Learning Certifications
-
----
-
-# Current Learning
-
-I'm currently learning and building projects in:
-
-- Python
-- SQL
-- Power BI
-- Tableau
-- Data Visualization
-- Data Engineering
-- AI & Automation
+- Python Programming Certificate
+- Python Programming Level 2
+- ICDL Certificate
+- Freelancing Certificate (Alexandria University)
 
 ---
 
-# Future Roadmap
+# Contact
 
-Future areas I plan to explore include:
-
-- Machine Learning
-- AI Agents
-- Data Engineering
-- Apache Spark
-- Cloud Platforms
-- Docker
-- Business Intelligence
-- ERP Development
-- Automation Systems
-
----
-
-# Connect With Me
-
-- LinkedIn
-- GitHub
-- Kaggle
-- YouTube
-- Portfolio Website *(Coming Soon)*
+- LinkedIn: *(Add your LinkedIn URL)*
+- GitHub: *(Add your GitHub profile)*
+- Kaggle: *(Add your Kaggle profile)*
 - Email: 2001ahmedmahmoud@gmail.com
-
----
-
-> "The best way to demonstrate skills is by building real solutions."

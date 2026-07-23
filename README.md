@@ -1,4 +1,4 @@
-# AMX Portfolio
+# Ahmed Mahmoud Portfolio
 
 ## About
 Hi, I'm Ahmed! I have an analytical background in Accounting (Faculty of 

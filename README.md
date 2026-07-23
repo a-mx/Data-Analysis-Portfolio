@@ -45,4 +45,4 @@ The best way to showcase skills is by doing and sharing your job done, but somet
 ## Contacts
 - **LinkedIn:** [@amx20](https://www.linkedin.com/in/amx20/)
 - **Email:** ahmedmahmoud@gmail.com
-- **Kaggle:** [[Insert Kaggle Profile Link](https://www.kaggle.com/amx2001)]
+- **Kaggle:** [[amx2001](https://www.kaggle.com/amx2001)]

@@ -18,7 +18,7 @@ I am always looking for new challenges to take on. Whether working on a team
 or independently, I am driven by the thrill of discovering new insights and 
 the satisfaction of using data to solve complex problems.
 
-My CV: [PDF](https://github.com/amx-20/AMX-Portfolio/blob/main/Ahmed_Mahmoud_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/amx-20/AMX-Portfolio/blob/main/Ahmed_Mahmoud_Resume.pdf)
 
 This is a repository to showcase my skills, share projects, and track my 
 progress in Data Analytics, Data Science, and Web Development.

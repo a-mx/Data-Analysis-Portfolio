@@ -10,32 +10,27 @@ I have a strong interest in data analytics, programming, business systems, and a
 
 In my free time, I enjoy exploring new technologies, learning new tools, and working on personal projects that challenge me to improve my skills. Whether working independently or as part of a team, I enjoy learning continuously and turning ideas into real projects.
 
-My CV in PDF. *(Coming Soon)*
+**My CV (PDF)** *(Coming Soon)*
 
-This is a repository to showcase my skills, share projects, and track my progress in Data Analytics, Business Systems, Python, and Software Development.
+This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics, Business Systems, Python, and Software Development.
 
 ---
 
 # Table of Contents
 
-- About
-
-- Portfolio Projects
-
-  - Python
-  - SQL
-  - Excel
-  - Power BI
-  - Tableau
-  - Web Development
-  - Odoo / ERP
-  - Automation
-
-- Education
-
-- Certificates
-
-- Contact
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
+  - [SQL](#sql)
+  - [Excel](#excel)
+  - [Power BI](#power-bi)
+  - [Tableau](#tableau)
+  - [Web Development](#web-development)
+  - [Odoo / ERP](#odoo--erp)
+  - [Automation](#automation)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
 ---
 
@@ -47,93 +42,67 @@ In this section I will list my projects, briefly describing the technology stack
 
 ## Python
 
-### Project Name *(Coming Soon)*
+### Project *(Coming Soon)*
 
-**Code:** *(Link)*
-
-**Goal:**
-
-*(To be added)*
-
-**Description:**
-
-*(To be added)*
-
-**Skills:**
-
-*(To be added)*
-
-**Technology:**
-
-Python, Pandas, ...
-
-**Results:**
-
-*(To be added)*
-
----
-
-### Project Name *(Coming Soon)*
-
-**Code:** *(Link)*
+**Code:** *(Coming Soon)*
 
 **Goal:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Description:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Skills:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Technology:**
 
-*(To be added)*
+Python, Pandas
 
 **Results:**
 
-*(To be added)*
+*(Coming Soon)*
 
 ---
 
 ## SQL
 
-### Project Name *(Coming Soon)*
+### Project *(Coming Soon)*
 
-**Code:** *(Link)*
+**Code:** *(Coming Soon)*
 
 **Description:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Skills:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Technology:**
 
-PostgreSQL
+PostgreSQL / SQL
 
 ---
 
 ## Excel
 
-### Project Name *(Coming Soon)*
+### Project *(Coming Soon)*
 
 **Goal:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Description:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Skills:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Technology:**
 
@@ -141,7 +110,7 @@ Microsoft Excel
 
 **Results:**
 
-*(To be added)*
+*(Coming Soon)*
 
 ---
 
@@ -151,15 +120,15 @@ Microsoft Excel
 
 **Goal:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Description:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Skills:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Technology:**
 
@@ -173,15 +142,15 @@ Power BI
 
 **Goal:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Description:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Skills:**
 
-*(To be added)*
+*(Coming Soon)*
 
 **Technology:**
 
@@ -191,67 +160,77 @@ Tableau
 
 ## Web Development
 
-### Project *(Coming Soon)*
+### Call Center Reviews Egypt
+
+**Code:** *(Add Repository Link)*
 
 **Goal:**
 
-*(To be added)*
+To build a platform where current and former call center employees in Egypt can anonymously share workplace experiences and help job seekers make informed career decisions.
 
 **Description:**
 
-*(To be added)*
+Developed a responsive web application that allows users to browse and submit company reviews. The project uses Google Apps Script and Google Sheets as the backend while HTML, CSS, and JavaScript power the frontend interface.
 
 **Skills:**
 
-*(To be added)*
+- Front-End Development
+- API Integration
+- Responsive Web Design
+- DOM Manipulation
+- Google Apps Script
 
 **Technology:**
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Google Apps Script, Google Sheets
+
+**Results:**
+
+Successfully built and deployed a functional review platform capable of collecting and displaying dynamic user reviews.
+
+---
+
+### Future Web Project *(Coming Soon)*
 
 ---
 
 ## Odoo / ERP
 
-### Project *(Coming Soon)*
+### Fonoun Odoo Migration
 
 **Goal:**
 
-*(To be added)*
+Prepare and organize company data for migration from Excel into the Odoo ERP system.
 
 **Description:**
 
-*(To be added)*
+Worked on cleaning and organizing business data before implementation. Prepared master data including products, categories, warehouses, chart of accounts, opening balances, and accounting data required for ERP migration.
 
 **Skills:**
 
-*(To be added)*
+- Data Cleaning
+- Master Data Preparation
+- Accounting
+- ERP Implementation
+- Business Process Analysis
 
 **Technology:**
 
-Odoo, Excel, Accounting
+Microsoft Excel, Odoo ERP
+
+**Results:**
+
+Prepared accurate and structured business data ready for import into Odoo, helping ensure a smooth ERP implementation.
+
+---
+
+### Future Odoo Project *(Coming Soon)*
 
 ---
 
 ## Automation
 
-### Project *(Coming Soon)*
-
-**Goal:**
-
-*(To be added)*
-
-**Description:**
-
-*(To be added)*
-
-**Skills:**
-
-*(To be added)*
-
-**Technology:**
-
-Python
+### Python Automation Project *(Coming Soon)*
 
 ---
 
@@ -269,27 +248,27 @@ Bachelor's Degree in Accounting
 
 # Certificates
 
-The best way to showcase skills is by doing and sharing your work, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your work, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-### In Progress
+## In Progress
 
 - DEPI Professional Data Analyst Track
 - IBM Data Analyst Professional Certificate
 - Google Data Analytics Professional Certificate
 
-### Completed
+## Completed
 
 - Python Programming Certificate
 - Python Programming Level 2
 - ICDL
-- Freelancing Certificate
+- Freelancing Certificate (Alexandria University)
 
 ---
 
 # Contact
 
-- LinkedIn:
-- GitHub:
-- Kaggle:
-- Portfolio Website:
+- LinkedIn: *(Coming Soon)*
+- GitHub: *(Coming Soon)*
+- Kaggle: *(Coming Soon)*
+- Portfolio Website: *(Coming Soon)*
 - Email: 2001ahmedmahmoud@gmail.com

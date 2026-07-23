@@ -1,6 +1,18 @@
-# AMX Portfolio
+# MY Portfolio
 
 > Building practical solutions through Data Analytics, Python, Business Systems, and Automation.
+
+---
+
+# About Me
+
+Hi, I'm **Ahmed Mahmoud**, a graduate in Business (Accounting) with a passion for solving real-world problems through technology.
+
+My interests combine **data analytics, business systems, Python automation, and software development**. I enjoy understanding how businesses operate, discovering opportunities for improvement, and building practical tools that make work easier and more efficient.
+
+Rather than focusing on a single technology, I enjoy learning across multiple disciplines and connecting them to create complete solutions.
+
+This repository serves as the central hub of my professional portfolio. It contains my background, technical skills, certifications, education, and links to all of my projects.
 
 ---
 
@@ -16,18 +28,6 @@
 - [Current Learning](#current-learning)
 - [Future Roadmap](#future-roadmap)
 - [Connect With Me](#connect-with-me)
-
----
-
-# About Me
-
-Hi, I'm **Ahmed Mahmoud**, a graduate in Business (Accounting) with a passion for solving real-world problems through technology.
-
-My interests combine **data analytics, business systems, Python automation, and software development**. I enjoy understanding how businesses operate, discovering opportunities for improvement, and building practical tools that make work easier and more efficient.
-
-Rather than focusing on a single technology, I enjoy learning across multiple disciplines and connecting them to create complete solutions.
-
-This repository serves as the central hub of my professional portfolio. It contains my background, technical skills, certifications, education, and links to all of my projects.
 
 ---
 

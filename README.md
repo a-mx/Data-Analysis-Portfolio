@@ -38,22 +38,13 @@ describing the technology stack used to solve each case.
 ### Call Center Reviews Egypt
 **Live Demo:** [amx-20.github.io/Call-Center-Reviews](https://amx-20.github.io/Call-Center-Reviews/)  
 **Code:** [Call-Center-Reviews](https://github.com/amx-20/Call-Center-Reviews)  
-**Goal:** To build a platform where current and former call center employees 
-in Egypt can anonymously share their workplace experiences and help job 
-seekers make informed career decisions.  
-**Description:** A web application for collecting and displaying employee 
-reviews of call center companies in Egypt. Features a responsive interface 
-backed by Google Apps Script as the API layer, with Google Sheets serving as 
-the database. Users can browse company reviews, ratings, job titles, 
-employment periods, and recommendations through a dynamic interface.  
-**Skills:** Front-End Development, Responsive Web Design, JavaScript, API 
-Integration, Google Apps Script, Google Sheets, Data Management, Git, GitHub.  
-**Technology:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets, 
+**Goal:** A platform for Egyptian call center employees to anonymously share 
+workplace reviews and help job seekers make informed decisions.  
+**Tech Stack:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets, 
 GitHub Pages.  
-**Results:** Designed, developed, and deployed a fully functional employee 
-review platform allowing users to submit and browse company reviews through a 
-dynamic web interface — demonstrating front-end development integrated with a 
-lightweight backend and cloud-based data storage.
+**Highlights:** Responsive front-end with a lightweight backend — Google Apps 
+Script as the API, Google Sheets as the database. Users browse companies by 
+rating, job title, and employment period.
 
 ## Education
 **Alexandria University**  

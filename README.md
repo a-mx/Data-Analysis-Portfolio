@@ -23,18 +23,46 @@ the satisfaction of using data to solve complex problems.
 
 This is a repository to showcase my skills, share projects, and track my 
 progress in Data Analytics, Data Science, and Web Development.
-
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
   - [Call Center Reviews Egypt](#call-center-reviews-egypt)
 - [Education](#education)  
 - [Certificates](#certificates)
 - [Contacts](#contacts)
-
 ## Portfolio Projects
 In this section, I list data analytics and web development projects, briefly 
 describing the technology stack used to solve each case.
+
+### Python
+
+**YouTube Recommendation Data Analysis**  
+**Code:** [youtube_analysis.ipynb](https://github.com/amx-20/PortfolioProjects/blob/main/youtube_analysis.ipynb)  
+**Goal:** Explore a 1-million-row YouTube recommendation dataset to understand 
+what drives watch time, engagement, and video reach.  
+**Tech Stack:**  
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+  
+**Highlights:** Cleaned inconsistent categorical data, resolved a Unix 
+timestamp conversion issue, validated logical constraints (e.g., watch time 
+vs. video duration), and compared heavy vs. light viewer segments across 
+device, category, and time-of-day patterns.
+
+**F1 Championship Data Analysis**  
+**Code:** [F1_analysis.ipynb](https://github.com/amx-20/PortfolioProjects/blob/main/F1_analysis.ipynb)  
+**Goal:** Visualize Formula 1 championship history by nationality and driver.  
+**Tech Stack:**  
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+  
+**Highlights:** Built an interactive treemap of championships by country and 
+driver, and a correlation matrix across key driver statistics.
 
 ### Call Center Reviews Egypt
 **Live Demo:** [amx-20.github.io/Call-Center-Reviews](https://amx-20.github.io/Call-Center-Reviews/)  
@@ -43,12 +71,7 @@ describing the technology stack used to solve each case.
 workplace reviews and help job seekers make informed decisions.  
 
 **Tech Stack:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
 
 **Highlights:** Responsive front-end with a lightweight backend — Google Apps 
 Script as the API, Google Sheets as the database. Users browse companies by 

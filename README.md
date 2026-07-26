@@ -1,8 +1,7 @@
 # Ahmed Mahmoud Portfolio
 
 ## About
-Hi, I'm Ahmed! I have an analytical background in Accounting (Faculty of 
-Business, Alexandria University) and I am currently completing the DEPI 
+Hi, I'm Ahmed! I have an analytical background in Accounting and I am currently completing the DEPI 
 Professional Data Analyst Track. I am a lifelong learner, 
 a natural problem-solver, and excited to bring my technical and analytical 
 skills to the field.
@@ -84,7 +83,7 @@ Bachelor's Degree in Accounting
 ## Certificates
 The best way to showcase skills is by doing and sharing your work, but 
 sometimes certificates appear as an indirect result. Here's a list of the ones 
-I have (in reverse-chronological order, with the date of completion in 
+I have, with the date of completion in 
 brackets):
 - [IBM Data Fundamentals](https://www.credly.com/badges/1077ca54-c7d1-489a-8463-5e09e316342b/public_url) (Jul 2026) — IBM SkillsBuild
 - [Business Intelligence Fundamentals](https://www.simplilearn.com/skillup-certificate-landing) (Jul 2025) — Simplilearn SkillUp

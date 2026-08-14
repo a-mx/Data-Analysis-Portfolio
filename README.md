@@ -23,59 +23,62 @@ the satisfaction of using data to solve complex problems.
 This is a repository to showcase my skills, share projects, and track my 
 progress in Data Analytics, Data Science, and Web Development.
 ## Table of Contents
-
-* [About](#about)
-* [Portfolio Projects](#portfolio-projects)
-
-  * [YouTube Recommendation Data Analysis](#youtube-recommendation-data-analysis)
-  * [F1 Championship Data Analysis](#f1-championship-data-analysis)
-  * [Superstore Sales & Profitability Analysis](#superstore-sales--profitability-analysis)
-  * [Call Center Reviews Egypt](#call-center-reviews-egypt)
-* [Education](#education)
-* [Certificates](#certificates)
-* [Contacts](#contacts)
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [YouTube Recommendation Data Analysis](#youtube-recommendation-data-analysis)
+  - [F1 Championship Data Analysis](#f1-championship-data-analysis)
+  - [Superstore Sales & Profitability Analysis](#superstore-sales--profitability-analysis)
+  - [Call Center Reviews Egypt](#call-center-reviews-egypt)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## Portfolio Projects
+In this section, I list data analytics and web development projects, briefly 
+describing the technology stack used to solve each case.
 
-In this section, I list data analytics and web development projects, briefly describing the technology stack used to solve each case.
 
 ### YouTube Recommendation Data Analysis
+**Code:** [YouTube Recommendation Data Analysis](https://github.com/amx-20/PortfolioProjects/blob/main/youtube_analysis.ipynb)  
+**Goal:** Explore a 1-million-row YouTube recommendation dataset to understand 
+what drives watch time, engagement, and video reach.  
+**Tech Stack:**  
 
-**Code:** https://github.com/amx-20/PortfolioProjects/blob/main/youtube_analysis.ipynb
-**Goal:** Explore a 1-million-row YouTube recommendation dataset to understand what drives watch time, engagement, and video reach.
-**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=plotly\&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+**Highlights:** Cleaned inconsistent categorical data, resolved a Unix 
+timestamp conversion issue, validated logical constraints (e.g., watch time 
+vs. video duration), and compared heavy vs. light viewer segments across 
+device, category, and time-of-day patterns.
 
-**Highlights:** Cleaned inconsistent categorical data, resolved a Unix timestamp conversion issue, validated logical constraints (e.g., watch time vs. video duration), and compared heavy vs. light viewer segments across device, category, and time-of-day patterns.
 
 ### F1 Championship Data Analysis
+**Code:** [F1 Championship Data Analysis](https://github.com/amx-20/PortfolioProjects/blob/main/F1_analysis.ipynb)  
+**Goal:** Visualize Formula 1 championship history by nationality and driver.  
+**Tech Stack:**  
 
-**Code:** https://github.com/amx-20/PortfolioProjects/blob/main/F1_analysis.ipynb
-**Goal:** Visualize Formula 1 championship history by nationality and driver.
-**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat\&logo=plotly\&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+**Highlights:** Built an interactive treemap of championships by country and 
+driver, and a correlation matrix across key driver statistics.
 
-**Highlights:** Built an interactive treemap of championships by country and driver, and a correlation matrix across key driver statistics.
 
 ### Superstore Sales & Profitability Analysis
+**Code:** [Superstore Sales & Profitability Analysis](https://github.com/amx-20/PortfolioProjects/blob/main/Superstore_Analysis.ipynb)  
+**Goal:** Analyze retail sales, profitability, customer behavior, and operational performance to identify key business trends and factors affecting profit.  
+**Tech Stack:**  
 
-**Code:** [Superstore Analysis](https://github.com/amx-20/PortfolioProjects/blob/main/Superstore_Analysis.ipynb)
-**Goal:** Analyze retail sales, profitability, customer behavior, and operational performance to identify key business trends and factors affecting profit.
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logo=seaborn)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
 **Highlights:** Cleaned and transformed the dataset, engineered analytical features, analyzed sales and profitability across regions, categories, and customer segments, and investigated the impact of discounts on profit margins. Identified a strong negative relationship between discount levels and profitability, including a significant decline in margins at higher discounts.
 
+
 ### Call Center Reviews Egypt
+**Code:** [Call Center Reviews Egypt](https://github.com/amx-20/Call-Center-Reviews)  
+**Goal:** Build a platform for collecting and exploring employee reviews of call center companies in Egypt.  
+**Tech Stack:**  
 
-**Code:** https://github.com/amx-20/Call-Center-Reviews
-**Goal:** Build a platform for collecting and exploring employee reviews of call center companies in Egypt.
-**Tech Stack:**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat\&logo=google\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 
 **Highlights:** Developed a web-based review platform with Google Sheets integration, allowing users to browse, search, and submit company reviews.
 

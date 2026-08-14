@@ -25,7 +25,6 @@ progress in Data Analytics, Data Science, and Web Development.
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
   - [Call Center Reviews Egypt](#call-center-reviews-egypt)
 - [Education](#education)  
 - [Certificates](#certificates)
@@ -34,9 +33,8 @@ progress in Data Analytics, Data Science, and Web Development.
 In this section, I list data analytics and web development projects, briefly 
 describing the technology stack used to solve each case.
 
-### Python
 
-**YouTube Recommendation Data Analysis**  
+### YouTube Recommendation Data Analysis
 **Code:** [youtube_analysis.ipynb](https://github.com/amx-20/PortfolioProjects/blob/main/youtube_analysis.ipynb)  
 **Goal:** Explore a 1-million-row YouTube recommendation dataset to understand 
 what drives watch time, engagement, and video reach.  
@@ -51,7 +49,7 @@ timestamp conversion issue, validated logical constraints (e.g., watch time
 vs. video duration), and compared heavy vs. light viewer segments across 
 device, category, and time-of-day patterns.
 
-**F1 Championship Data Analysis**  
+### F1 Championship Data Analysis
 **Code:** [F1_analysis.ipynb](https://github.com/amx-20/PortfolioProjects/blob/main/F1_analysis.ipynb)  
 **Goal:** Visualize Formula 1 championship history by nationality and driver.  
 **Tech Stack:**  
@@ -62,6 +60,16 @@ device, category, and time-of-day patterns.
   
 **Highlights:** Built an interactive treemap of championships by country and 
 driver, and a correlation matrix across key driver statistics.
+
+
+### Superstore Sales & Profitability Analysis
+**Code:** [Superstore Analysis](https://github.com/amx-20/PortfolioProjects/blob/main/Superstore_Analysis.ipynb)   
+**Goal:** Analyze retail sales, profitability, customer behavior, and operational performance to identify key business trends and factors affecting profit.   
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+**Highlights:** Cleaned and transformed the dataset, engineered analytical features, analyzed sales and profitability across regions, categories, and customer segments, and investigated the impact of discounts on profit margins. Identified a strong negative relationship between discount levels and profitability, including a significant decline in margins at higher discounts.
 
 ### Call Center Reviews Egypt
 **Live Demo:** [amx-20.github.io/Call-Center-Reviews](https://amx-20.github.io/Call-Center-Reviews/)  

@@ -74,17 +74,7 @@ driver, and a correlation matrix across key driver statistics.
 
 
 ### Call Center Reviews Egypt
-**Code:** [Call Center Reviews Egypt](https://github.com/amx-20/Call-Center-Reviews)  
-**Goal:** Build a platform for collecting and exploring employee reviews of call center companies in Egypt.  
-**Tech Stack:**  
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-
-**Highlights:** Developed a web-based review platform with Google Sheets integration, allowing users to browse, search, and submit company reviews.
-
-
-### Call Center Reviews Egypt
-**Live Demo:** [amx-20.github.io/Call-Center-Reviews](https://amx-20.github.io/Call-Center-Reviews/)  
+**Live Demo:** [go to the website](https://amx-20.github.io/Call-Center-Reviews/)  
 **Code:** [Call-Center-Reviews](https://github.com/amx-20/Call-Center-Reviews)  
 **Goal:** A platform for Egyptian call center employees to anonymously share 
 workplace reviews and help job seekers make informed decisions.  
